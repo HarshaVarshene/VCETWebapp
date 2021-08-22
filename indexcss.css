@@ -1,0 +1,12 @@
+form {
+  width: 30%;
+  margin: 100px auto;
+  padding: 30px;
+  border: 1px solid #555;
+}
+body{
+	background-color:blue;
+}
+h1{
+	color:red;
+}
